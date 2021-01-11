@@ -5,7 +5,7 @@ import { ReactiveFormsModule } from "@angular/forms";
 
 import { AppComponent } from "./app.component";
 import { TopBarComponent } from "./top-bar/top-bar.component";
-import { BoothRentalsListComponent } from "./booth_rentals/booth_rentals.component";
+import { BoothRentalsListComponent } from "./booth-rentals/booth-rentals.component";
 
 @NgModule({
   imports: [

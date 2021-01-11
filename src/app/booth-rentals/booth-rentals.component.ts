@@ -1,6 +1,6 @@
 import { Component } from '@angular/core';
 
-import { booth_rentals } from '../booth_rentals';
+import { booth_rentals } from '../booth-rentals';
 
 @Component({
   selector: 'app-booth-rentals-list',
